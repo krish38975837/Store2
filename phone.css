@@ -1,0 +1,21 @@
+.navbar ul{
+    /* flex-direction: column; */
+    font-size: 20px;
+    flex-wrap: wrap;
+}
+
+
+.home p{
+    font-size: 13px;
+
+}
+.home{
+    padding: 7px;
+    height: 448px;
+}
+.home h1{
+    font-size: 2rem;
+}
+#products{
+    flex-direction: column;
+}
